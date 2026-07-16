@@ -1,135 +1,135 @@
 #: monoscript-FITM
 msgid "Failure injecting the MonoDatacollector dll"
-msgstr ""
+msgstr "MonoDataCollector DLLの注入に失敗しました"
 
 #: monoscript-DYWTL
 msgid "Do you wish to let the mono extention figure out the name and start address? If it's not a proper object this may crash the target."
-msgstr ""
+msgstr "Mono拡張機能に名前と開始アドレスを特定させますか？正しいオブジェクトでない場合、対象がクラッシュする可能性があります。"
 
 #: monoscript-IO
 msgid "Instances of "
-msgstr ""
+msgstr "次のインスタンス: "
 
 #: monoscript-WTAJG
 msgid "Warning: These are just guesses. Validate them yourself"
-msgstr ""
+msgstr "警告: これらは推測にすぎません。ご自身で確認してください"
 
 #: monoscript-AN
 msgid "address==nil"
-msgstr ""
+msgstr "address==nil"
 
 #: monoscript-Invoke
 msgid "Invoke "
-msgstr ""
+msgstr "呼び出し "
 
 #: monoscript-IA
 msgid "Instance address"
-msgstr ""
+msgstr "インスタンスのアドレス"
 
 #: monoscript-PW
 msgid "<Please wait...>"
-msgstr ""
+msgstr "<お待ちください...>"
 
 #: monoscript-Parameters
 msgid "Parameters"
-msgstr ""
+msgstr "パラメーター"
 
 #: monoscript-OK
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: monoscript-Cancel
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: monoscript-Parameter
 msgid "parameter "
-msgstr ""
+msgstr "パラメーター "
 
 #: monoscript-INAVA
 msgid " is not a valid address"
-msgstr ""
+msgstr " は有効なアドレスではありません"
 
 #: monoscript-INAVV
 msgid "is not a valid value"
-msgstr ""
+msgstr "は有効な値ではありません"
 
 #: monoscript-IFT
 msgid "ILCode from %x to %x"
-msgstr ""
+msgstr "ILコード %x から %x"
 
 #: monoscript-OX
 msgid "Offset %x"
-msgstr ""
+msgstr "オフセット %x"
 
 #: monoscript-Resolve
 msgid "Resolve "
-msgstr ""
+msgstr "解決 "
 
 #: monoscript-XSTS
 msgid "%x : %s (type: %s)"
-msgstr ""
+msgstr "%x : %s (タイプ: %s)"
 
 #: monoscript-AYSYWTE
 msgid "Are you sure you wish to expand the whole tree? This can take a while and Cheat Engine may look like it has crashed (It has not)"
-msgstr ""
+msgstr "ツリー全体を展開してもよろしいですか？時間がかかることがあり、Cheat Engineがクラッシュしたように見える場合があります (実際にはクラッシュしていません)"
 
 #: monoscript-FTL
 msgid "Failure to launch"
-msgstr ""
+msgstr "起動に失敗しました"
 
 #: monoscript-Mono
 msgid "Mono"
-msgstr ""
+msgstr "Mono"
 
 #: monoscript-AMF
 msgid "Activate mono features"
-msgstr ""
+msgstr "Mono機能を有効化"
 
 #: monoscript-DM
 msgid "Dissect mono"
-msgstr ""
+msgstr "Monoを解析"
 
 #: monoscript-TMHFTI
 msgid "The mono handler failed to initialize"
-msgstr ""
+msgstr "Monoハンドラーの初期化に失敗しました"
 
 #: monoscript-IPMN
 msgid "Invalid parameters (Methodname could not be determined)"
-msgstr ""
+msgstr "無効なパラメーター (メソッド名を特定できませんでした)"
 
 #: monoscript-IPCN
 msgid "Invalid parameters (Classname could not be determined)"
-msgstr ""
+msgstr "無効なパラメーター (クラス名を特定できませんでした)"
 
 #: monoscript-IPN
 msgid "Invalid parameters (name could not be determined)"
-msgstr ""
+msgstr "無効なパラメーター (名前を特定できませんでした)"
 
 #: monoscript-CNBF
 msgid " could not be found"
-msgstr ""
+msgstr " が見つかりませんでした"
 
 #: monoscript-CNBJ
 msgid " could not be jitted"
-msgstr ""
+msgstr " をJITコンパイルできませんでした"
 
 #: monoscript-STFDNWY
 msgid "Sorry this feature does not work yet.  getStructureCount needs patching first."
-msgstr ""
+msgstr "申し訳ありませんが、この機能はまだ動作しません。先にgetStructureCountを修正する必要があります。"
 
 #: monoscript-Removing
 msgid "Removing "
-msgstr ""
+msgstr "削除中 "
 
 #: monoscript-RS
 msgid "Reloading Structure "
-msgstr ""
+msgstr "構造体を再読み込み中 "
 
 #: monoscript-TC
 msgid "The class "
-msgstr ""
+msgstr "クラス "
 
 #: monoscript-HNF
 msgid " has no fields"
-msgstr ""
+msgstr " にはフィールドがありません"
