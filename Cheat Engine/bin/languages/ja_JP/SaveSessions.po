@@ -1,19 +1,19 @@
 #: SS-OaPF
 msgid "Open a process first"
-msgstr ""
+msgstr "先にプロセスを開いてください"
 
 #: SS-CESF
 msgid "Cheat Engine Scan files"
-msgstr ""
+msgstr "Cheat Engineスキャンファイル"
 
 #: SS-OaPFDaS
 msgid "Open a process first and do a scan"
-msgstr ""
+msgstr "先にプロセスを開いてスキャンを実行してください"
 
 #: SS-SSS
 msgid "Save scan session"
-msgstr ""
+msgstr "スキャンセッションを保存"
 
 #: SS-LSS
 msgid "Load scan session"
-msgstr "" 
+msgstr "スキャンセッションを読み込む"
