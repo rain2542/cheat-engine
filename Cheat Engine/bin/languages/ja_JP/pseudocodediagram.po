@@ -1,183 +1,183 @@
 #: pseudocodediagram-file
 msgid "File"
-msgstr ""
+msgstr "ファイル"
 
 #: pseudocodediagram-lff
 msgid "Load from file"
-msgstr ""
+msgstr "ファイルから読み込む"
 
 #: pseudocodediagram-stfywto
 msgid "Select the file you wish to open"
-msgstr ""
+msgstr "開くファイルを選択してください"
 
 #: pseudocodediagram-dfcc
 msgid "Diagram files (*.CEDIAG )|*.CEDIAG"
-msgstr ""
+msgstr "ダイアグラムファイル (*.CEDIAG )|*.CEDIAG"
 
 #: pseudocodediagram-stf
 msgid "Save to file"
-msgstr ""
+msgstr "ファイルに保存"
 
 #: pseudocodediagram-fitfywtstda
 msgid "Fill in the filename you wish to save this diagram as"
-msgstr ""
+msgstr "このダイアグラムの保存先ファイル名を入力してください"
 
 #: pseudocodediagram-sdti
 msgid "Save diagram to image"
-msgstr ""
+msgstr "ダイアグラムを画像として保存"
 
 #: pseudocodediagram-fitfywtstdi
 msgid "Fill in the filename you wish to save this diagram image"
-msgstr ""
+msgstr "このダイアグラム画像の保存先ファイル名を入力してください"
 
 #: pseudocodediagram-pfpp
 msgid "PNG files (*.PNG )|*.PNG"
-msgstr ""
+msgstr "PNGファイル (*.PNG )|*.PNG"
 
 #: pseudocodediagram-close
 msgid "Close"
-msgstr ""
+msgstr "閉じる"
 
 #: pseudocodediagram-display
 msgid "Display"
-msgstr ""
+msgstr "表示"
 
 #: pseudocodediagram-spfu2oc
 msgid "Show path from Ultimap1/2 or Codefilter"
-msgstr ""
+msgstr "Ultimap1/2またはCodefilterからのパスを表示"
 
 #: pseudocodediagram-spftw
 msgid "Show path from tracer window"
-msgstr ""
+msgstr "トレーサーウィンドウからのパスを表示"
 
 #: pseudocodediagram-tsa
 msgid "Tracer starting at %8x (%s)"
-msgstr ""
+msgstr "%8x (%s) から開始したトレーサー"
 
 #: pseudocodediagram-tp
 msgid "Tracer paths"
-msgstr ""
+msgstr "トレーサーパス"
 
 #: pseudocodediagram-wtwsbu
 msgid "Which tracer window shall be used?"
-msgstr ""
+msgstr "使用するトレーサーウィンドウを選択してください"
 
 #: pseudocodediagram-ntwrv
 msgid "No tracerform with results visible"
-msgstr ""
+msgstr "結果が表示されているトレーサーフォームがありません"
 
 #: pseudocodediagram-v
 msgid "View"
-msgstr ""
+msgstr "表示"
 
 #: pseudocodediagram-z
 msgid "Zoom"
-msgstr ""
+msgstr "ズーム"
 
 #: pseudocodediagram-zi
 msgid "Zoom in"
-msgstr ""
+msgstr "拡大"
 
 #: pseudocodediagram-zo
 msgid "Zoom out"
-msgstr ""
+msgstr "縮小"
 
 #: pseudocodediagram-e
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 #: pseudocodediagram-nh
 msgid "new header"
-msgstr ""
+msgstr "新しいヘッダー"
 
 #: pseudocodediagram-nbbc
 msgid "new block background color (0xBBGGRR)"
-msgstr ""
+msgstr "新しいブロックの背景色 (0xBBGGRR)"
 
 #: pseudocodediagram-sl
 msgid "Sources list"
-msgstr ""
+msgstr "ソース一覧"
 
 #: pseudocodediagram-dl
 msgid "Destinations list"
-msgstr ""
+msgstr "移動先一覧"
 
 #: pseudocodediagram-be
 msgid "Block editor"
-msgstr ""
+msgstr "ブロックエディター"
 
 #: pseudocodediagram-ok
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: pseudocodediagram-cancel
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: pseudocodediagram-gts
 msgid "Go to source"
-msgstr ""
+msgstr "ソースへ移動"
 
 #: pseudocodediagram-gtd
 msgid "Go to destination"
-msgstr ""
+msgstr "移動先へ移動"
 
 #: pseudocodediagram-rap
 msgid "Remove all points"
-msgstr ""
+msgstr "すべてのポイントを削除"
 
 #: pseudocodediagram-ebh
 msgid "Edit block header"
-msgstr ""
+msgstr "ブロックヘッダーを編集"
 
 #: pseudocodediagram-ebc
 msgid "Edit block color"
-msgstr ""
+msgstr "ブロックの色を編集"
 
 #: pseudocodediagram-ls
 msgid "List sources"
-msgstr ""
+msgstr "ソースを一覧表示"
 
 #: pseudocodediagram-ld
 msgid "List destinations"
-msgstr ""
+msgstr "移動先を一覧表示"
 
 #: pseudocodediagram-eac
 msgid "Edit annotation color"
-msgstr ""
+msgstr "注釈の色を編集"
 
 #: pseudocodediagram-da
 msgid "Delete annotation"
-msgstr ""
+msgstr "注釈を削除"
 
 #: pseudocodediagram-ca
 msgid "Create annotation"
-msgstr ""
+msgstr "注釈を作成"
 
 #: pseudocodediagram-mdi
 msgid "[Diagram info]"
-msgstr ""
+msgstr "[ダイアグラム情報]"
 
 #: pseudocodediagram-fstart
 msgid " Function start: 0x%X"
-msgstr ""
+msgstr " 関数の開始: 0x%X"
 
 #: pseudocodediagram-fstop
 msgid " Function stop: 0x%X"
-msgstr ""
+msgstr " 関数の終了: 0x%X"
 
 #: pseudocodediagram-dbc
 msgid " Diagram blocks count: %d"
-msgstr ""
+msgstr " ダイアグラムのブロック数: %d"
 
 #: pseudocodediagram-dlc
 msgid " Diagram links count: %d"
-msgstr ""
+msgstr " ダイアグラムのリンク数: %d"
 
 #: pseudocodediagram-diagram
 msgid "Diagram"
-msgstr ""
+msgstr "ダイアグラム"
 
 #: pseudocodediagram-sd
 msgid "Spawn diagram"
-msgstr ""
+msgstr "ダイアグラムを生成"
