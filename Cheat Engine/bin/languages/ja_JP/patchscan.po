@@ -1,67 +1,67 @@
-﻿#: patchscan-nave
+#: patchscan-nave
 msgid "Not a valid executable"
-msgstr ""
+msgstr "有効な実行ファイルではありません"
 
 #: patchscan-navwe
 msgid "Not a valid windows executable"
-msgstr ""
+msgstr "有効なWindows実行ファイルではありません"
 
 #: patchscan-ttomicns
 msgid "This type of module is currently not supported"
-msgstr ""
+msgstr "この種類のモジュールには現在対応していません"
 
 #: patchscan-ce
 msgid "Compare error. "
-msgstr ""
+msgstr "比較エラー. "
 
 #: patchscan-ml
 msgid "Module List"
-msgstr ""
+msgstr "モジュール一覧"
 
 #: patchscan-stmtsfp
 msgid "Select the modules to scan for patches. Hold shift/ctrl to select multiple modules"
-msgstr ""
+msgstr "パッチをスキャンするモジュールを選択してください. 複数のモジュールを選択するにはshift/ctrlを押したままにしてください"
 
 #: patchscan-ok
 msgid "  OK  "
-msgstr ""
+msgstr "  OK  "
 
 #: patchscan-cancel
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: patchscan-scanning
 msgid "Scanning: %s"
-msgstr ""
+msgstr "スキャン中: %s"
 
 #: patchscan-ei
 msgid "Error in "
-msgstr ""
+msgstr "エラー発生箇所 "
 
 #: patchscan-pl
 msgid "Patch list"
-msgstr ""
+msgstr "パッチ一覧"
 
 #: patchscan-address
 msgid "Address"
-msgstr ""
+msgstr "アドレス"
 
 #: patchscan-original
 msgid "Original"
-msgstr ""
+msgstr "元の値"
 
 #: patchscan-patched
 msgid "Patched"
-msgstr ""
+msgstr "パッチ適用後"
 
 #: patchscan-rwo
 msgid "Restore with original"
-msgstr ""
+msgstr "元の値に戻す"
 
 #: patchscan-rp
 msgid "Reapply patch"
-msgstr ""
+msgstr "パッチを再適用"
 
 #: patchscan-sfp
 msgid "Scan for patches"
-msgstr ""
+msgstr "パッチをスキャン"
