@@ -1,283 +1,283 @@
 #: java-AAF
 msgid "Auto assembler failed:"
-msgstr ""
+msgstr "自動アセンブラーに失敗しました:"
 
 #: java-JEST
 msgid "Java:eventserver terminated"
-msgstr ""
+msgstr "Java:イベントサーバーが終了しました"
 
 #: java-JD
 msgid "Java:Disconnected"
-msgstr ""
+msgstr "Java:切断されました"
 
 #: java-JUER
 msgid "Java:Unexpected event received"
-msgstr ""
+msgstr "Java:予期しないイベントを受信しました"
 
 #: java-JEHT
 msgid "Java:Event handler terminating"
-msgstr ""
+msgstr "Java:イベントハンドラーを終了しています"
 
 #: java-IJS
 msgid "Invalid java signature"
-msgstr ""
+msgstr "無効なJavaシグネチャ"
 
 #: java-ARTANS
 msgid "Array return types are not supported"
-msgstr ""
+msgstr "配列の戻り値のTypeには対応していません"
 
 #: java-PCDNM
 msgid "Parameter count does not match"
-msgstr ""
+msgstr "パラメーター数が一致しません"
 
 #: java-SWNS
 msgid "Scantype was not set"
-msgstr ""
+msgstr "スキャンTypeが設定されていません"
 
 #: java-Class
 msgid "Class"
-msgstr ""
+msgstr "クラス"
 
 #: java-Method
 msgid "Method"
-msgstr ""
+msgstr "メソッド"
 
 #: java-Position
 msgid "Position"
-msgstr ""
+msgstr "位置"
 
 #: java-MI
 msgid "More info %s.%s(%d)"
-msgstr ""
+msgstr "詳細情報 %s.%s(%d)"
 
 #: java-TDMATGV
 msgid "The following methods accessed the given variable"
-msgstr ""
+msgstr "指定された変数にアクセスしたメソッド"
 
 #: java-results
 msgid "results"
-msgstr ""
+msgstr "結果"
 
 #: java-OWWTJAILAS
 msgid "java_find_what_writes only works when the jvmti agent is launched at start"
-msgstr ""
+msgstr "java_find_what_writesは、起動時にJVMTIエージェントを開始した場合のみ動作します"
 
 #: java-Generic
 msgid "  Generic="
-msgstr ""
+msgstr "  ジェネリック="
 
 #: java-SC
 msgid "superclass="
-msgstr ""
+msgstr "スーパークラス="
 
 #: java-II
 msgid "---Implemented interfaces---"
-msgstr ""
+msgstr "---実装済みインターフェイス---"
 
 #: java-Fields
 msgid "---Fields---"
-msgstr ""
+msgstr "---フィールド---"
 
 #: java-Methods
 msgid "---Methods---"
-msgstr ""
+msgstr "---メソッド---"
 
 #: java-SFC
 msgid "Search for class..."
-msgstr ""
+msgstr "クラスを検索..."
 
 #: java-SF
 msgid "Search for..."
-msgstr ""
+msgstr "検索..."
 
 #: java-NewS
 msgid "New Scan"
-msgstr ""
+msgstr "新しいスキャン"
 
 #: java-FS
 msgid "First Scan"
-msgstr ""
+msgstr "初回スキャン"
 
 #: java-JVScanner
 msgid "Java Variable Scanner"
-msgstr ""
+msgstr "Java変数スキャナー"
 
 #: java-Value
 msgid "Value"
-msgstr ""
+msgstr "値"
 
 #: java-NextS
 msgid "Next Scan"
-msgstr ""
+msgstr "次のスキャン"
 
 #: java-Found
 msgid "Found:"
-msgstr ""
+msgstr "検出数:"
 
 #: java-FWATV
 msgid "Find what accesses this value"
-msgstr ""
+msgstr "この値にアクセスするコードを調べる"
 
 #: java-Search
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: java-FC
 msgid "Find Class"
-msgstr ""
+msgstr "クラスを検索"
 
 #: java-Finddotdotdot
 msgid "Find..."
-msgstr ""
+msgstr "検索..."
 
 #: java-EM
 msgid "Edit method"
-msgstr ""
+msgstr "メソッドを編集"
 
 #: java-AJF
 msgid "Activate java features"
-msgstr ""
+msgstr "Java機能を有効化"
 
 #: java-DJC
 msgid "Dissect java classes"
-msgstr ""
+msgstr "Javaクラスを解析"
 
 #: java-JVScan
 msgid "Java variable scan"
-msgstr ""
+msgstr "Java変数スキャン"
 
 #: java-DCP
 msgid "Debug child processes"
-msgstr ""
+msgstr "子プロセスをデバッグ"
 
 #: java-JHDTI
 msgid "The java handler failed to initialize"
-msgstr ""
+msgstr "Javaハンドラーの初期化に失敗しました"
 
 #: java-SJMIEITTP
 msgid "Show java menu item even if the target process hasn't loaded jvm.dll (Used for the local setEnvironment option)"
-msgstr ""
+msgstr "対象プロセスがjvm.dllを読み込んでいない場合でもJavaメニュー項目を表示します (ローカルのsetEnvironmentオプションで使用)"
 
 #: javaclass-ICPTE
 msgid "Invalid constant pool tag encountered: "
-msgstr ""
+msgstr "無効な定数プールタグが見つかりました: "
 
 #: javaclass-Tag
 msgid " (tag="
-msgstr ""
+msgstr " (タグ="
 
 #: javaclass-NAVC
 msgid "Not a valid classfile"
-msgstr ""
+msgstr "有効なクラスファイルではありません"
 
 #: javaclasseditor-ICNI
 msgid " is currently not implemented"
-msgstr ""
+msgstr " は現在実装されていません"
 
 #: javaclasseditor-WCNBUW
 msgid "wide can not be used with "
-msgstr ""
+msgstr "wideを次と併用することはできません "
 
 #: javaclasseditor-IAOPPF
 msgid "Invalid amount of parameters provided for "
-msgstr ""
+msgstr "次に指定されたパラメーター数が無効です "
 
 #: javaclasseditor-TL
 msgid "The label "
-msgstr ""
+msgstr "ラベル "
 
 #: javaclasseditor-INYD
 msgid "is not yet defined"
-msgstr ""
+msgstr "はまだ定義されていません"
 
 #: javaclasseditor-TIICNI
 msgid "This instruction is currently not implemented"
-msgstr ""
+msgstr "この命令は現在実装されていません"
 
 #: javaclasseditor-UI
 msgid "unknown instruction:"
-msgstr ""
+msgstr "不明な命令:"
 
 #: javaclasseditor-YCORI
 msgid "You can only replace instructions on an instruction boundary"
-msgstr ""
+msgstr "命令の境界上でのみ命令を置き換えられます"
 
 #: javaclasseditor-StartIndex
 msgid "si="
-msgstr ""
+msgstr "si="
 
 #: javaclasseditor-Offset
 msgid " offset="
-msgstr ""
+msgstr " オフセット="
 
 #: javaclasseditor-IL
 msgid "Insert line"
-msgstr ""
+msgstr "行を挿入"
 
 #: javaclasseditor-ITJAC
 msgid "Input the java assembly code you wish to insert at line "
-msgstr ""
+msgstr "次の行へ挿入するJavaアセンブリコードを入力してください "
 
 #: javaclasseditor-EL
 msgid "Edit line"
-msgstr ""
+msgstr "行を編集"
 
 #: javaclasseditor-DNL
 msgid "Define new label"
-msgstr ""
+msgstr "新しいラベルを定義"
 
 #: javaclasseditor-GALFL
 msgid "Give a labelname for line "
-msgstr ""
+msgstr "次の行のラベル名を入力してください "
 
 #: javaclasseditor-TIAALWTN
 msgid "There is already a label with this name"
-msgstr ""
+msgstr "同じ名前のラベルがすでに存在します"
 
 #: javaclasseditor-OBSNBS
 msgid "old bsize=%d new bsize=%d"
-msgstr ""
+msgstr "旧バイトサイズ=%d 新バイトサイズ=%d"
 
 #: javaclasseditor-OSNS
 msgid "old size=%d new size=%d"
-msgstr ""
+msgstr "旧サイズ=%d 新サイズ=%d"
 
 #: javaclasseditor-Method
 msgid "Method: "
-msgstr ""
+msgstr "メソッド: "
 
 #: javaclasseditor-MS
 msgid "Max Stack"
-msgstr ""
+msgstr "最大スタック"
 
 #: javaclasseditor-ML
 msgid "Max Locals"
-msgstr ""
+msgstr "最大ローカル変数数"
 
 #: javaclasseditor-SC
 msgid "Save changes"
-msgstr ""
+msgstr "変更を保存"
 
 #: javaclasseditor-Index
 msgid "Index"
-msgstr ""
+msgstr "インデックス"
 
 #: javaclasseditor-BI
 msgid "ByteIndex"
-msgstr ""
+msgstr "バイトインデックス"
 
 #: javaclasseditor-Label
 msgid "Label"
-msgstr ""
+msgstr "ラベル"
 
 #: javaclasseditor-Exception
 msgid "Exception"
-msgstr ""
+msgstr "例外"
 
 #: javaclasseditor-Instruction
 msgid "Instruction"
-msgstr ""
+msgstr "命令"
 
 #: javaclasseditor-DL
 msgid "Define label"
-msgstr ""
+msgstr "ラベルを定義"
